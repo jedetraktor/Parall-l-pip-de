@@ -1,0 +1,5 @@
+longueur = int(input("Veuillez saisir la longueur:"))
+largeur = int(input("Veuillez saisir la largeur:"))
+hauteur = int(input("Veuillez saisir la hauteur:"))
+volume = longueur * largeur * hauteur
+print(volume)
